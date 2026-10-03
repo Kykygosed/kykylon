@@ -2,7 +2,7 @@
 
 #include <apps/i18n.h>
 
-#include "calculation_icon.h"
+#include "calculation_icon2.h"
 
 using namespace Poincare;
 using namespace Shared;
